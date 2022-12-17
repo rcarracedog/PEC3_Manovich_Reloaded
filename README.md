@@ -8,7 +8,7 @@ Autor: Roberto Carracedo Gómez
 
 Fecha: 21/12/2022
 
-![Death Stranding]([https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png](https://deathstrandingpc.505games.com/wp-content/themes/deathstranding-cyberpunk/img/topimage.jpg)) 
+![Death Stranding]([[https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png](https://deathstrandingpc.505games.com/wp-content/themes/deathstranding-cyberpunk/img/topimage.jpg)](https://cdn1.epicgames.com/offer/0a9e3c5ab6684506bd624a849ca0cf39/EGS_DeathStrandingDirectorsCut_KOJIMAPRODUCTIONS_S4_1200x1600-5f99e16507795f9b497716b470cfd876)) 
 
 
 
@@ -18,12 +18,12 @@ Fecha: 21/12/2022
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
-## Re-descubriendo la hibridacion: Max for Life 
+## Re-descubriendo la hibridacion. Caso 1: Max for Life 
 
 
 
 
-## Re-descubriendo la hibridacion: Death Stranding
+## Re-descubriendo la hibridacion. Caso 2: Death Stranding
 
 
 
