@@ -46,7 +46,7 @@ Para terminar de entender cómo podemos reconocer una hibridación, a continuaci
 
 ### Webgrafía
 
-* slideshare. [en línea] [consulta: 17 de diciembre de 2022]. Disponible en: https://deathstranding.fandom.com/es/wiki/Death_Stranding#Desarrollo
+* FANDOM. [en línea] [consulta: 17 de diciembre de 2022]. Disponible en: https://deathstranding.fandom.com/es/wiki/Death_Stranding#Desarrollo
 
 ----
 
