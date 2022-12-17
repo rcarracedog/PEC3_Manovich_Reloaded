@@ -39,11 +39,14 @@ Para terminar de entender cómo podemos reconocer una hibridación, a continuaci
 
 
 
-### Referencias y Bibliografía
+### Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
-* 
+* Adell, Ferran. (2014). "Remediación, multimedia e hibridación de los medios".
 
+### Webgrafía
+
+* slideshare. [en línea] [consulta: 17 de diciembre de 2022]. Disponible en: https://deathstranding.fandom.com/es/wiki/Death_Stranding#Desarrollo
 
 ----
 
