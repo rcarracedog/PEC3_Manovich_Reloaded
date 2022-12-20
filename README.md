@@ -35,10 +35,19 @@ Volviendo a Max for Life, sus aplicaciones no se reducen solo al mundo del sonid
 
 Llegados a este punto, ¿podríamos decir que Max for Life es una hibridación de medios?
 
-Recordemos cómo Manovich definía un "medio" de software y cómo trabajamos con ellos en el mundo digital: "Un medio simulado en software es una combinación de una estructura de datos y una serie de algoritmos. Medio = algoritmos + una estructura de datos. Los materiales se convierten en estructuras de datos y las herramientas físicas, mecánicas y electrónicas se transforman en herramientas de software que trabajan sobre estas estructuras de datos." Manovich, L. [Lev Manovich]. (2013). El software toma el mando. Editorial UOC. Así pues, en Max for Life (como en muchos otros softwares), tenemos diversas herramientas que simulan otras del mundo real. Como es lógico, existen otras que a parte de simular estas funciones predigitales, se apropian de antiguos modelos y se refuerzan con nuevas propiedades o funciones (remediación). En este metamedio podemos diferenciar claramente cómo confluyen diferentes medios y lenguajes como la programación, la música, la ingeniería o la mecánica. Aunque seamos capaces de diseccionar Max for Life en varias ciencias, podemos observar cómo todas son importantes en su conjunto y cómo el resto no tendrían sentido en la totalidad si faltara tan solo una de ellas. Por esta razón reparamos en que estamos hablando de un nuevo medio nacido de la hibridación de medios.
+Recordemos cómo Manovich definía un "medio" de software y cómo trabajamos con ellos en el mundo digital: "Un medio simulado en software es una combinación de una estructura de datos y una serie de algoritmos. Medio = algoritmos + una estructura de datos. Los materiales se convierten en estructuras de datos y las herramientas físicas, mecánicas y electrónicas se transforman en herramientas de software que trabajan sobre estas estructuras de datos." Manovich, L. [Lev Manovich]. (2013). El software toma el mando. Editorial UOC. Así pues, en Max for Life (como en muchos otros softwares), tenemos diversas herramientas que simulan otras del mundo real. Como es lógico, existen otras que a parte de simular estas funciones predigitales, se apropian de antiguos modelos y se refuerzan con nuevas propiedades o funciones (remediación) y otras totalmente nuevas que no simulan ningún medio físico que existiera antes. En este metamedio podemos diferenciar claramente cómo confluyen diferentes medios y lenguajes como la programación, la música, la ingeniería o la mecánica. Aunque seamos capaces de diseccionar Max for Life en varias ciencias, podemos observar como todas son importantes formando un conjunto y como el resto no tendrían sentido en la totalidad si faltara tan solo una de ellas. Por esta razón reparamos en que estamos hablando de un nuevo medio nacido de la hibridación de medios. Incluso podríamos considerarlo como una nueva plataforma de medios. "El resultado de la hibridación no es tan solo la suma mecánica de las partes existentes previamente, sino una nueva "especie": un nuevo tipo de estética visual que no existía antes." Manovich, L. [Lev Manovich]. (2013). El software toma el mando. Editorial UOC.
 
 
 ## Re-descubriendo la hibridacion. Death Stranding
+
+
+
+
+
+
+
+
+
 
 
 
