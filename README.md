@@ -40,18 +40,22 @@ Recordemos cómo Manovich definía un "medio" de software y cómo trabajamos con
 
 ## Re-descubriendo la hibridacion. Death Stranding
 
-El segundo caso de hibridación que hemos elegido se corresponde con el videojuego Death Stranding, el cual fue lanzado en 2019 por el famoso director y diseñador de videojuegos japonés Hideo Kojima. Este videojuego de acción se considera pionero en el sector por su novedosa e impactante jugabilidad, su fusión de distintos medios y por incluir a grandes actores entre sus protagonistas. Estos y otros muchos detalles son los que vamos a desgranar en las siguientes líneas. 
+El segundo caso de hibridación que hemos elegido se corresponde con el videojuego Death Stranding, el cual fue lanzado en 2019 por el famoso director y diseñador de videojuegos japonés Hideo Kojima. Esta historia de acción en un mundo abierto se considera pionera en el sector por su novedosa e impactante jugabilidad, su fusión de distintos medios y por incluir a grandes actores entre sus protagonistas. Estos y otros muchos detalles son los que vamos a desgranar en las siguientes líneas. 
+
+Lo primero que llama la atención del videojuego es la jugabilidad. En palabras de su propio director "La aventura está creada de manera que todos los elementos, incluidas la historia y la jugabilidad, estén unidos por una misma conexión o hilo conductor. Los jugadores tendrán que volver a unir a una sociedad fragmentada en el que crear nuevos vínculos con otros usuarios será de vital importancia para superar el juego. Quiero que los jugadores lleguen a entender la verdadera importancia de crear lazos con otras personas." Como podemos ver con estas afirmaciones, Death Stranding es un proyecto muy ambicioso con un transfondo muy profundo. 
+Volviendo a la jugabilidad, durante la partida podremos utilizar herramientas, estructuras y objetos construidos por otros usuarios. Si nosotros construimos alguna estructura en algún punto del mapa, el resto de jugadores podrán utilizarla igualmente. También existen "buzones" en los que puedes donar o pedir equipamiento a otros usuarios o realizar algún tipo de intercambio. Las posibilidades son infinitas y como se puede observar, este es un juego cooperativo en el que la ayuda de los demás es de suma importancia para avanzar en la historia. Este tipo de cosas son las que lo hacen diferente en el mundo del gaming. 
+
+Otro punto importante a destacar es que los protagonistas de la historia son afamados actores y directores de Hollywood como Madds Mikkelsen o Guillermo del Toro. Estos grandes artistas forman parte del proyecto mediante la captura fotorrealista de sus caras, la captura de sus movimientos, el escaneado 3D y las actuaciones vocales mediante el doblaje de sus recreaciones digitales. Este hecho, sumado a la calidad de los gráficos, las increíbles cinemáticas y la consistencia de la historia hace que la experiencia sea mucho más potente e inmersiva. 
+
+El videojuego también cuenta con un "modo foto" que podemos activar mientras jugamos para hacer una captura de pantalla. Podemos compartir estas fotos con el resto de la comunidad e incluso participar en concursos de fotografía en el que se exponen las mejores capturas del videojuego.  
+
+Como acabamos de ver, este juego cuenta con infinidad de posibilidades gracias a una confluencia increíble de medios distintos en un solo lugar. "Los lenguajes de la cinematografía, la animación, la animación por ordenador, los efectos especiales, el diseño gráfico, la tipografía, el dibujo y la pintura han acabado formando un nuevo metalenguaje. Una obra producida en este nuevo metalenguaje puede utilizar todas las técnicas, o cualquier subconjunto, que en el pasado eran exclusivamente de estos medios respectivos." Manovich, L. [Lev Manovich]. (2013). El software toma el mando. Editorial UOC. 
+Esto que explica Manovich es básicamente lo que nos viene a la mente al pensar en Death Stranding, una nueva obra que utiliza un nuevo metalenguaje con unos resultados inimaginables hasta ahora. 
 
 
+### Valoraciones personales
 
-
-
-
-
-
-
-
-
+Personalmente me considero un usuario nivel medio de videojuegos, al fin y al cabo he crecido con ellos y me gusta jugar desde que en unas navidades mis padres me regalaron mi primera consola a los 14 años. Incluso una persona como yo se sorprende al analizar este tipo de obras artísticas que se están desarrollando en los últimos años. Nada tiene que ver con los juegos de hace 10 años, mucho menos con los videojuegos de las primeras consolas. Si comparamos la evolución de este nuevo medio en 20 años de vida podríamos observar como el cambio 
 
 
 ### Bibliografía
