@@ -17,7 +17,7 @@ Abrimos esta pequeña introducción de este ensayo con una pregunta: ¿Qué es l
 
 Comprender el significado de la pregunta y dar una posible respuesta nos abrirá las puertas a este nuevo mundo. Para entender el término "hibridación de medios" necesitamos asimilar lo siguiente: "En la multimedia los elementos conviven, pero cada uno de ellos necesita abrir su propio recurso para ser reproducido. En la hibridación, en cambio, se da una fusión entre los elementos que comparten las técnicas de software y las interfícies generando una experiencia nueva y coherente, que es diferente a la experimentación de los elementos por separado." Adell, F. [Ferran Adell]. Remediación, multimedia e hibridación de los medios.
 
-No está mal como calentamiento, ¿verdad? Probemos ahora con una de las afirmaciones de Manovich: "La softwarización de los medios anteriores no conllevó su convergencia, sino que una vez los formatos de representación, las técnicas de creación de contenido y las interfaces de acceso fueron disociados de sus bases físicas y traducidos a software, estos elementos empezaron a interrelacionarse y produjeron nuevos híbridos." Manovich, L. [Lev Manovich]. (2013). El software toma el mando. Editorial UOC. 
+No está mal como calentamiento, ¿verdad? Citemos ahora con una de las afirmaciones de Manovich: "La softwarización de los medios anteriores no conllevó su convergencia, sino que una vez los formatos de representación, las técnicas de creación de contenido y las interfaces de acceso fueron disociados de sus bases físicas y traducidos a software, estos elementos empezaron a interrelacionarse y produjeron nuevos híbridos." Manovich, L. [Lev Manovich]. (2013). El software toma el mando. Editorial UOC. 
 Por tanto, tras analizar estas dos citas, podríamos decir con nuestras propias palabras que la hibridación no es mezclar simplemente dos o más medios, sino que es el fruto de la fusión de la nueva relación que mantienen para crear algo totalmente nuevo.
 
 ¿Cómo podemos reconocer una hibridación? ¿Y cómo podemos diferenciarla de otros términos como remediación o multimedia?
@@ -39,6 +39,8 @@ Recordemos cómo Manovich definía un "medio" de software y cómo trabajamos con
 
 
 ## Re-descubriendo la hibridacion. Death Stranding
+
+El segundo caso de hibridación que hemos elegido se corresponde con el videojuego Death Stranding, el cual fue lanzado en 2019 por el famoso director y diseñador de videojuegos japonés Hideo Kojima. Este videojuego de acción se considera pionero en el sector por su novedosa e impactante jugabilidad, su fusión de distintos medios y por incluir a grandes actores entre sus protagonistas. Estos y otros muchos detalles son los que vamos a desgranar en las siguientes líneas. 
 
 
 
@@ -62,6 +64,8 @@ Recordemos cómo Manovich definía un "medio" de software y cómo trabajamos con
 * FANDOM. [en línea] [consulta: 17 de diciembre de 2022]. Disponible en: https://deathstranding.fandom.com/es/wiki/Death_Stranding#Desarrollo
 * The Bass Valley. [en línea] [consulta: 17 de diciembre de 2022]. Disponible en: https://thebassvalley.com/max-for-live-introduccion/
 * cycling74. [en línea] [consulta: 17 de diciembre de 2022]. Disponible en: https://cycling74.com/products/max
+* 505games. [en línea] [consulta: 17 de diciembre de 2022]. Disponible en: https://deathstrandingpc.505games.com/es/#about
+* Esquire. [en línea] [consulta: 17 de diciembre de 2022]. Disponible en: https://www.esquire.com/es/tecnologia/a29468891/death-stranding-juegos-ps4-kojima/
 
 ----
 
