@@ -8,9 +8,7 @@ Autor: Roberto Carracedo Gómez
 
 Fecha: 21/12/2022
 
-![Death Stranding](https://mcdn.wallpapersafari.com/medium/91/17/1cbKhQ.jpg)
-
-
+![Max for Life](https://cycling74-web-assets.s3.amazonaws.com/images/max8/what-is-max/explore-sound-unique-synth.png)
 
 ## Planteamiento
 
