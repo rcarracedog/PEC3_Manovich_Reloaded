@@ -32,6 +32,10 @@ Para terminar de entender cómo podemos reconocer una hibridación, a continuaci
 
 ## Re-descubriendo la hibridacion. Max for Life 
 
+De manera breve, podríamos definir Max for Life como un lenguaje de programación de código abierto desarrollado por la compañía Cycling 74. En sus inicios, este programa iba ligado al software de producción musical Ableton Live con el que podías generar instrumentos digitales, efectos de audio o efectos MIDI. Hago aquí un inciso para explicar que el MIDI (Musical Instrument Digital Interfacees) es un lenguaje o protocolo de comunicación que permite a ordenadores, instrumentos musicales y hardware comunicarse entre sí. Es una parte fundamental en el campo de la producción y composición musical. 
+Volviendo a Max for Life, sus aplicaciones no se reducen solo al mundo del sonido sino que se aplican en otros campos creativos como en medios visuales o computación física. Normalmente puedes utilizarlo como plugin dentro de tu software o puedes trabajar con él por separado sin necesidad de otro software donde ejecutarse. Es una herramienta muy potente ya que al ser de código abierto nuestras creaciones se comparten con el resto de la comunidad y están disponibles en todo momento para que cualquier persona pueda utilizarlas o editarlas. 
+
+Llegados a este punto, ¿podríamos decir que Max for Life es una hibridación de medios?
 
 
 
