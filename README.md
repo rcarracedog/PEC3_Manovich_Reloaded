@@ -17,7 +17,8 @@ Fecha: 21/12/2022
 
 Abrimos esta pequeña introducción de este ensayo con una pregunta: ¿Qué es la hibridación de medios?
 
-Comprender el significado de la pregunta y dar una posible respuesta nos abrirá las puertas a este nuevo mundo. Para entender el término "hibridación de medios" necesitamos asimilar lo siguiente: "En la multimedia los elementos conviven, pero cada uno de ellos necesita abrir su propio recurso para ser reproducido. En la hibridación, en cambio, se da una fusión entre los elementos que comparten las técnicas de software y las interfícies generando una experiencia nueva y coherente, que es diferente a la experimentación de los elementos por separado." Adell, F. [Ferran Adell]. Remediación, multimedia e hibridación de los medios. 
+Comprender el significado de la pregunta y dar una posible respuesta nos abrirá las puertas a este nuevo mundo. Para entender el término "hibridación de medios" necesitamos asimilar lo siguiente: "En la multimedia los elementos conviven, pero cada uno de ellos necesita abrir su propio recurso para ser reproducido. En la hibridación, en cambio, se da una fusión entre los elementos que comparten las técnicas de software y las interfícies generando una experiencia nueva y coherente, que es diferente a la experimentación de los elementos por separado." Adell, F. [Ferran Adell]. Remediación, multimedia e hibridación de los medios.
+
 No está mal como calentamiento, ¿verdad? Probemos ahora con una de las afirmaciones de Manovich: "La softwarización de los medios anteriores no conllevó su convergencia, sino que una vez los formatos de representación, las técnicas de creación de contenido y las interfaces de acceso fueron disociados de sus bases físicas y traducidos a software, estos elementos empezaron a interrelacionarse y produjeron nuevos híbridos." Manovich, L. [Lev Manovich]. (2013). El software toma el mando. Editorial UOC. 
 Por tanto, tras analizar estas dos citas, podríamos decir con nuestras propias palabras que la hibridación no es mezclar simplemente dos o más medios, sino que es el fruto de la fusión de la nueva relación que mantienen para crear algo totalmente nuevo.
 
@@ -26,7 +27,7 @@ Por tanto, tras analizar estas dos citas, podríamos decir con nuestras propias 
 En la multimedia los medios se juntan y pueden convivir o interactuar pero de forma individualizada, no forman un todo. 
 Por otro lado y como ya sabemos, la remediación es un proceso en el que un medio se apropia de técnicas, formas y/o significación social de otro medio. Hay infinidad de cosas o acciones que antes realizábamos de una manera y que actualmente hacemos de otra debido a la digitalización de nuestro mundo y de los medios. Bien es cierto que podríamos decir que la hibridación es una especie de proceso de remediación. Ambos términos están muy relacionados, pero como estamos viendo, no son lo mismo. En su libro, Manovich decía: "en los medios híbridos confluyen lenguajes previos y diferenciados, intercambian propiedades, crean nuevas estructuras e interaccionan a los niveles más profundos." Manovich, L. [Lev Manovich]. (2013). El software toma el mando. Editorial UOC.
 
-Para terminar de entender cómo podemos reconocer una hibridación, a continuación hablaremos acerca de dos buenos ejemplos. Un lenguaje de programación artística: Max for Life. Un videojuego pionero en el sector: Death Stranding.
+Para terminar de entender cómo podemos reconocer una hibridación, a continuación hablaremos acerca de dos buenos ejemplos. Un lenguaje de programación artística (Max for Life) y un videojuego pionero en el sector (Death Stranding).
 
 
 ## Re-descubriendo la hibridacion. Max for Life 
