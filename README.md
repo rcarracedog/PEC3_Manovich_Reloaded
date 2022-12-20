@@ -32,11 +32,12 @@ Para terminar de entender cómo podemos reconocer una hibridación, a continuaci
 
 ## Re-descubriendo la hibridacion. Max for Life 
 
-De manera breve, podríamos definir Max for Life como un lenguaje de programación de código abierto desarrollado por la compañía Cycling 74. En sus inicios, este programa iba ligado al software de producción musical Ableton Live con el que podías generar instrumentos digitales, efectos de audio o efectos MIDI. Hago aquí un inciso para explicar que el MIDI (Musical Instrument Digital Interfacees) es un lenguaje o protocolo de comunicación que permite a ordenadores, instrumentos musicales y hardware comunicarse entre sí. Es una parte fundamental en el campo de la producción y composición musical. 
+De manera breve, podríamos definir Max for Life como un lenguaje de programación de código abierto desarrollado por la compañía Cycling 74. En sus inicios, este programa iba ligado al software de producción musical Ableton Live con el que podías generar instrumentos digitales, efectos de audio o efectos MIDI. Hago aquí un inciso para explicar que el MIDI (Musical Instrument Digital Interfacees) es un lenguaje o protocolo de comunicación que permite a ordenadores, instrumentos musicales y hardware comunicarse entre sí. Es una parte fundamental en el campo de la producción pero también en otros sectores artísticos.
 Volviendo a Max for Life, sus aplicaciones no se reducen solo al mundo del sonido sino que se aplican en otros campos creativos como en medios visuales o computación física. Normalmente puedes utilizarlo como plugin dentro de tu software o puedes trabajar con él por separado sin necesidad de otro software donde ejecutarse. Es una herramienta muy potente ya que al ser de código abierto nuestras creaciones se comparten con el resto de la comunidad y están disponibles en todo momento para que cualquier persona pueda utilizarlas o editarlas. 
 
 Llegados a este punto, ¿podríamos decir que Max for Life es una hibridación de medios?
 
+Recordemos cómo Manovich definía un "medio" de software y cómo trabajamos con ellos en el mundo digital: "Un medio simulado en software es una combinación de una estructura de datos y una serie de algoritmos. Medio = algoritmos + una estructura de datos. Los materiales se convierten en estructuras de datos y las herramientas físicas, mecánicas y electrónicas se transforman en herramientas de software que trabajan sobre estas estructuras de datos." Manovich, L. [Lev Manovich]. (2013). El software toma el mando. Editorial UOC. Así pues, en Max for Life como en muchos otros softwares, tenemos varias herramientas que simulan otras del mundo real. Existen otras que a parte de simular estas funciones predigitales, se apropian de antiguos modelos y se refuerzan con nuevas propiedades o funciones (remediación). En este metamedio podemos diferenciar claramente cómo confluyen diferentes medios y lenguajes como la programación, la música, la ingeniería o la mecánica. Aunque seamos capaces de diseccionar Max for Life en varias ciencias, podemos observar cómo todas son importantes en su conjunto y cómo el resto no tendrían sentido en la totalidad si faltara tan solo una de ellas. Por esta razón reparamos en que estamos hablando de un nuevo medio nacido de la hibridación de medios.
 
 
 ## Re-descubriendo la hibridacion. Death Stranding
@@ -52,6 +53,8 @@ Llegados a este punto, ¿podríamos decir que Max for Life es una hibridación d
 ### Webgrafía
 
 * FANDOM. [en línea] [consulta: 17 de diciembre de 2022]. Disponible en: https://deathstranding.fandom.com/es/wiki/Death_Stranding#Desarrollo
+* The Bass Valley. [en línea] [consulta: 17 de diciembre de 2022]. Disponible en: https://thebassvalley.com/max-for-live-introduccion/
+* cycling74. [en línea] [consulta: 17 de diciembre de 2022]. Disponible en: https://cycling74.com/products/max
 
 ----
 
