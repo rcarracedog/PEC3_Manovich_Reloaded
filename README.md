@@ -50,7 +50,7 @@ Así pues, en Max for Life (como en muchos otros softwares), tenemos diversas he
 
 ## Re-descubriendo la hibridacion. Death Stranding
 
-
+![Death Stranding](https://image.api.playstation.com/vulcan/img/rnd/202010/2715/ccTNECyr1IGEMh28b63gZzOv.png)
 
 El segundo caso de hibridación que hemos elegido se corresponde con el videojuego [Death Stranding](https://www.youtube.com/watch?v=Zlw-wb9pGHM&ab_channel=PlayStationEspa%C3%B1a), el cual fue lanzado en 2019 por el famoso director y diseñador de videojuegos japonés Hideo Kojima. Esta historia de acción en un mundo abierto se considera pionera en el sector por su novedosa e impactante jugabilidad, su fusión de distintos medios y por incluir a grandes actores entre sus protagonistas. Estos y otros muchos detalles son los que vamos a desgranar en las siguientes líneas. 
 
