@@ -8,7 +8,7 @@ Autor: Roberto Carracedo Gómez
 
 Fecha: 21/12/2022
 
-![Max for Life](https://cycling74-web-assets.s3.amazonaws.com/images/max8/what-is-max/explore-sound-unique-synth.png)
+![Lev Manovich](https://www.kalamazooarts.org/wp-content/uploads/sites/www.kalamazooarts.org/images/2020/03/event-featured-ali-1583267361.jpeg)
 
 ## Planteamiento
 
@@ -34,6 +34,8 @@ Para terminar de entender cómo podemos reconocer una hibridación, a continuaci
 
 ## Re-descubriendo la hibridacion. Max for Life 
 
+![Max for Life](https://cycling74-web-assets.s3.amazonaws.com/images/max8/what-is-max/explore-sound-unique-synth.png)
+
 De manera breve, podríamos definir [Max for Life](https://cycling74.com/products/max) como un lenguaje de programación de código abierto desarrollado por la compañía Cycling74. En sus inicios, este programa iba ligado al software de producción musical Ableton Live con el que se podían generar instrumentos digitales, efectos de audio o efectos MIDI. Hago aquí un inciso para explicar que el MIDI (Musical Instrument Digital Interfacees) es un lenguaje o protocolo de comunicación que permite a ordenadores, instrumentos musicales y hardware comunicarse entre sí. Es una parte fundamental en el campo de la producción musical pero también en otros sectores artísticos.  
 Volviendo a Max for Life, sus aplicaciones no se reducen solo al mundo del sonido sino que se aplican en otros campos creativos como en medios visuales o computación física. Normalmente puedes utilizarlo como plugin dentro de tu software o puedes trabajar con él por separado sin necesidad de otro software donde ejecutarse. Es una herramienta muy potente ya que al ser de código abierto nuestras creaciones se comparten con el resto de la comunidad y están disponibles en todo momento para que cualquier persona pueda utilizarlas o editarlas. 
 
@@ -48,18 +50,24 @@ Así pues, en Max for Life (como en muchos otros softwares), tenemos diversas he
 
 ## Re-descubriendo la hibridacion. Death Stranding
 
-[Death Stranding](https://www.youtube.com/watch?v=Zlw-wb9pGHM&ab_channel=PlayStationEspa%C3%B1a)
 
 
-El segundo caso de hibridación que hemos elegido se corresponde con el videojuego Death Stranding, el cual fue lanzado en 2019 por el famoso director y diseñador de videojuegos japonés Hideo Kojima. Esta historia de acción en un mundo abierto se considera pionera en el sector por su novedosa e impactante jugabilidad, su fusión de distintos medios y por incluir a grandes actores entre sus protagonistas. Estos y otros muchos detalles son los que vamos a desgranar en las siguientes líneas. 
+El segundo caso de hibridación que hemos elegido se corresponde con el videojuego [Death Stranding](https://www.youtube.com/watch?v=Zlw-wb9pGHM&ab_channel=PlayStationEspa%C3%B1a), el cual fue lanzado en 2019 por el famoso director y diseñador de videojuegos japonés Hideo Kojima. Esta historia de acción en un mundo abierto se considera pionera en el sector por su novedosa e impactante jugabilidad, su fusión de distintos medios y por incluir a grandes actores entre sus protagonistas. Estos y otros muchos detalles son los que vamos a desgranar en las siguientes líneas. 
 
-Lo primero que llama la atención del videojuego es la jugabilidad. En palabras de su propio director "La aventura está creada de manera que todos los elementos, incluidas la historia y la jugabilidad, estén unidos por una misma conexión o hilo conductor. Los jugadores tendrán que volver a unir a una sociedad fragmentada en el que crear nuevos vínculos con otros usuarios será transcendental para superar el juego. Quiero que los jugadores lleguen a entender la verdadera importancia de crear lazos con otras personas." Como podemos ver con estas afirmaciones, Death Stranding es un proyecto muy ambicioso con un transfondo muy profundo. 
+Lo primero que llama la atención del videojuego es la jugabilidad. En palabras de su propio director: 
+>"La aventura está creada de manera que todos los elementos, incluidas la historia y la jugabilidad, estén unidos por una misma conexión o hilo conductor. Los jugadores tendrán que volver a unir a una sociedad fragmentada en el que crear nuevos vínculos con otros usuarios será transcendental para superar el juego. Quiero que los jugadores lleguen a entender la verdadera importancia de crear lazos con otras personas."
+ 
+Como podemos ver con estas afirmaciones, Death Stranding es un proyecto muy ambicioso con un transfondo muy profundo.  
 Volviendo a la jugabilidad, durante la partida podremos utilizar herramientas, estructuras y objetos construidos por otros usuarios. Si nosotros construimos alguna estructura en algún punto del mapa, el resto de jugadores podrán utilizarla igualmente. También existen "buzones" en los que puedes donar o pedir equipamiento a otros usuarios o realizar algún tipo de intercambio. Las posibilidades son infinitas y como se puede observar, este es un juego cooperativo en el que la ayuda de los demás es de suma importancia para avanzar en la historia. Este tipo de cosas son las que hacen a Death Stranding diferente en el mundo del gaming. 
 
-Otro punto importante a destacar es que los protagonistas de la historia son afamados actores y directores de Hollywood como Madds Mikkelsen o Guillermo del Toro. Estos grandes artistas forman parte del proyecto mediante la captura fotorrealista de sus caras, la captura de sus movimientos, el escaneado 3D y las actuaciones vocales mediante el doblaje de sus recreaciones digitales. "En suma, la composición digital ha permitido a los diseñadores de imágenes en movimiento combinar fácilmente los elementos visuales que deseen, sea cual sea el medio en el que se originaron, controlando cada elemento del proceso." Manovich, L. [Lev Manovich]. (2013). El software toma el mando. Editorial UOC. 
+Otro punto importante a destacar es que los protagonistas de la historia son afamados actores y directores de Hollywood como Madds Mikkelsen o Guillermo del Toro. Estos grandes artistas forman parte del proyecto mediante la captura fotorrealista de sus caras, la captura de sus movimientos, el escaneado 3D y las actuaciones vocales mediante el doblaje de sus recreaciones digitales. 
+>"En suma, la composición digital ha permitido a los diseñadores de imágenes en movimiento combinar fácilmente los elementos visuales que deseen, sea cual sea el medio en el que se originaron, controlando cada elemento del proceso." Manovich, L. [Lev Manovich]. (2013). El software toma el mando. Editorial UOC.
+ 
 Este hecho, sumado a la calidad de los gráficos, las increíbles cinemáticas, el diseño de sonido, la banda sonora y la consistencia de la historia o _storytelling_ hacen que la experiencia sea mucho más potente e inmersiva. El resultado es un "juego" que, podríamos decir, traspasa el primitivo significado de esa palabra.
  
-Como acabamos de ver, este videojuego cuenta con infinidad de fusiones de medios gracias a una confluencia increíble de distintos lenguajes y artes en un solo lugar. "Los lenguajes de la cinematografía, la animación, la animación por ordenador, los efectos especiales, el diseño gráfico, la tipografía, el dibujo y la pintura han acabado formando un nuevo metalenguaje. Una obra producida en este nuevo metalenguaje puede utilizar todas las técnicas, o cualquier subconjunto, que en el pasado eran exclusivamente de estos medios respectivos." Manovich, L. [Lev Manovich]. (2013). El software toma el mando. Editorial UOC. 
+Como acabamos de ver, este videojuego cuenta con infinidad de fusiones de medios gracias a una confluencia increíble de distintos lenguajes y artes en un solo lugar. 
+>"Los lenguajes de la cinematografía, la animación, la animación por ordenador, los efectos especiales, el diseño gráfico, la tipografía, el dibujo y la pintura han acabado formando un nuevo metalenguaje. Una obra producida en este nuevo metalenguaje puede utilizar todas las técnicas, o cualquier subconjunto, que en el pasado eran exclusivamente de estos medios respectivos." Manovich, L. [Lev Manovich]. (2013). El software toma el mando. Editorial UOC. 
+
 Esto que explica Manovich es básicamente lo que nos viene a la mente al pensar en Death Stranding, una nueva obra que utiliza un nuevo metalenguaje con unos resultados inimaginables hasta ahora.
 
 
@@ -67,7 +75,8 @@ Esto que explica Manovich es básicamente lo que nos viene a la mente al pensar 
 
 Durante este informe hemos analizado brevemente un par de casos de hibridación de medios. Asimismo, hemos intentado entender y explicar cómo podemos diferenciar distintos términos como multimedia, remediación o hibridación. 
 
-He de confesar que siento una gran admiración hacia los dos casos que acabo de exponer. Me considero una persona joven que ha crecido con los nuevos medios y que está al día en lo que se refiere a nuevos sistemas tecnológicos. Pues bien, aún así, hay una gran cantidad de herramientas (Max for Life) o experiencias (Death Stranding) que nunca dejan de sorprenderme. Como hemos comentado anteriormente las posibilidades para crear y experimentar con Max for Life son infinitas. En el caso de Death Stranding, a pesar de ser un videojuego, las posibilidades de interacción con su mundo y con el resto de usuarios de la comunidad son tan grandes, que podríamos decir igualmente que tienden a infinito. Personalmente me considero un usuario nivel medio de videojuegos, al fin y al cabo he crecido con ellos y me gusta jugar desde que en unas navidades mis padres me regalaron mi primera consola a los 14 años. A veces es bueno parar el ritmo frenético de nuestras vidas para reflexionar sobre cómo en este pequeño espacio de tiempo de 13 años, los nuevos medios han tenido una evolución prácticamente exponencial generando nuevas especies de medios. "El resultado es un lenguaje de medios híbrido, intrincado, complejo y rico, o más bien podríamos decir que son muchos lenguajes que comparten la lógica de la remezclabilidad profunda." Manovich, L. [Lev Manovich]. (2013). El software toma el mando. Editorial UOC. 
+He de confesar que siento una gran admiración hacia los dos casos que acabo de exponer. Me considero una persona joven que ha crecido con los nuevos medios y que está al día en lo que se refiere a nuevos sistemas tecnológicos. Pues bien, aún así, hay una gran cantidad de herramientas (Max for Life) o experiencias (Death Stranding) que nunca dejan de sorprenderme. Como hemos comentado anteriormente las posibilidades para crear y experimentar con Max for Life son infinitas. En el caso de Death Stranding, a pesar de ser un videojuego, las posibilidades de interacción con su mundo y con el resto de usuarios de la comunidad son tan grandes, que podríamos decir igualmente que tienden a infinito. Personalmente me considero un usuario nivel medio de videojuegos, al fin y al cabo he crecido con ellos y me gusta jugar desde que en unas navidades mis padres me regalaron mi primera consola a los 14 años. A veces es bueno parar el ritmo frenético de nuestras vidas para reflexionar sobre cómo en este pequeño espacio de tiempo de 13 años, los nuevos medios han tenido una evolución prácticamente exponencial generando nuevas especies de medios. 
+>"El resultado es un lenguaje de medios híbrido, intrincado, complejo y rico, o más bien podríamos decir que son muchos lenguajes que comparten la lógica de la remezclabilidad profunda." Manovich, L. [Lev Manovich]. (2013). El software toma el mando. Editorial UOC. 
 
 
 ### Bibliografía
