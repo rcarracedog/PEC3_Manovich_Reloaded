@@ -40,6 +40,9 @@ Recordemos cómo Manovich definía un "medio" de software y cómo trabajamos con
 
 ## Re-descubriendo la hibridacion. Death Stranding
 
+![Max for Life](https://youtu.be/Zlw-wb9pGHM](https://www.youtube.com/watch?v=Zlw-wb9pGHM&ab_channel=PlayStationEspa%C3%B1a)
+
+
 El segundo caso de hibridación que hemos elegido se corresponde con el videojuego Death Stranding, el cual fue lanzado en 2019 por el famoso director y diseñador de videojuegos japonés Hideo Kojima. Esta historia de acción en un mundo abierto se considera pionera en el sector por su novedosa e impactante jugabilidad, su fusión de distintos medios y por incluir a grandes actores entre sus protagonistas. Estos y otros muchos detalles son los que vamos a desgranar en las siguientes líneas. 
 
 Lo primero que llama la atención del videojuego es la jugabilidad. En palabras de su propio director "La aventura está creada de manera que todos los elementos, incluidas la historia y la jugabilidad, estén unidos por una misma conexión o hilo conductor. Los jugadores tendrán que volver a unir a una sociedad fragmentada en el que crear nuevos vínculos con otros usuarios será transcendental para superar el juego. Quiero que los jugadores lleguen a entender la verdadera importancia de crear lazos con otras personas." Como podemos ver con estas afirmaciones, Death Stranding es un proyecto muy ambicioso con un transfondo muy profundo. 
